@@ -1,0 +1,6 @@
+{
+  "name": "CEJ_Chess cloud codespace for presentation", // You can choose a name
+  "features": {
+    "ghcr.io/devcontainers/features/desktop-lite:1": {}
+  }
+}
